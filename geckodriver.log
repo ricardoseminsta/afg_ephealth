@@ -1006,3 +1006,373 @@ JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreacha
 1705590049756	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 1705590920805	Marionette	INFO	Stopped listening on port 42393
 1705590924374	Marionette	INFO	Stopped listening on port 35339
+1705608105387	geckodriver	INFO	Listening on 127.0.0.1:33567
+1705608106405	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2zvOur"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705608107381	Marionette	INFO	Marionette enabled
+1705608107743	Marionette	INFO	Listening on port 41917
+Read port: 41917
+1705608107945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705608138376	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705608213980	geckodriver	INFO	Listening on 127.0.0.1:58397
+1705608214988	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFAgJzo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705608215641	Marionette	INFO	Marionette enabled
+1705608215757	Marionette	INFO	Listening on port 43107
+Read port: 43107
+1705608216018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705608245705	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705608269275	geckodriver	INFO	Listening on 127.0.0.1:41401
+1705608270286	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehiKdrF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705608270914	Marionette	INFO	Marionette enabled
+1705608271011	Marionette	INFO	Listening on port 38957
+Read port: 38957
+1705608271342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705608300955	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705608305038	Marionette	INFO	Stopped listening on port 41917
+1705608311154	Marionette	INFO	Stopped listening on port 43107
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+SourceActor threw an exception: Error: Failed to fetch https://afogadosdaingazeira.ephealth.com.br/portal/individuo. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://afogadosdaingazeira.ephealth.com.br/portal/individuo. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://afogadosdaingazeira.ephealth.com.br/portal/individuo. Code 2152924148.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+1705608566469	geckodriver	INFO	Listening on 127.0.0.1:40691
+1705608567474	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEZT2Xm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705608568139	Marionette	INFO	Marionette enabled
+1705608568232	Marionette	INFO	Listening on port 38037
+Read port: 38037
+1705608568498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705608600509	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705608615373	Marionette	INFO	Stopped listening on port 38037
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705608616565	geckodriver	INFO	Listening on 127.0.0.1:39209
+1705608617579	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejKhS5R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705608618218	Marionette	INFO	Marionette enabled
+1705608618323	Marionette	INFO	Listening on port 33365
+Read port: 33365
+1705608618590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705608648240	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705616987880	Marionette	INFO	Stopped listening on port 33365
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705616991829	geckodriver	INFO	Listening on 127.0.0.1:43123
+1705616992839	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefhuRxX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705616993452	Marionette	INFO	Marionette enabled
+1705616993572	Marionette	INFO	Listening on port 33091
+Read port: 33091
+1705616993860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705617023468	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705617167603	geckodriver	INFO	Listening on 127.0.0.1:42497
+1705617168614	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXQluAZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705617169244	Marionette	INFO	Marionette enabled
+1705617169563	Marionette	INFO	Listening on port 37745
+Read port: 37745
+1705617169690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705617199454	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705617262356	Marionette	INFO	Stopped listening on port 37745
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705617265435	Marionette	INFO	Stopped listening on port 33091
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705617425841	geckodriver	INFO	Listening on 127.0.0.1:60139
+1705617426853	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7AqVKY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705617427477	Marionette	INFO	Marionette enabled
+1705617427585	Marionette	INFO	Listening on port 42777
+Read port: 42777
+1705617427841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705617459202	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705617544787	Marionette	INFO	Stopped listening on port 42777
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705617554530	geckodriver	INFO	Listening on 127.0.0.1:43213
+1705617555543	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledrMriH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705617556139	Marionette	INFO	Marionette enabled
+1705617556471	Marionette	INFO	Listening on port 39795
+Read port: 39795
+1705617556611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705617587062	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705617826058	Marionette	INFO	Stopped listening on port 39795
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705617841076	geckodriver	INFO	Listening on 127.0.0.1:34415
+1705617842093	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEhgJnw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705617842744	Marionette	INFO	Marionette enabled
+1705617842852	Marionette	INFO	Listening on port 46529
+Read port: 46529
+1705617843215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705617872866	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705618034433	geckodriver	INFO	Listening on 127.0.0.1:42407
+1705618035447	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeehn8x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705618036081	Marionette	INFO	Marionette enabled
+1705618036380	Marionette	INFO	Listening on port 43215
+Read port: 43215
+1705618036513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705618066185	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705618159349	Marionette	INFO	Stopped listening on port 46529
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705618159874	Marionette	INFO	Stopped listening on port 43215
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705618411114	geckodriver	INFO	Listening on 127.0.0.1:35601
+1705618412129	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiKyvo4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705618412739	Marionette	INFO	Marionette enabled
+1705618412827	Marionette	INFO	Listening on port 41561
+Read port: 41561
+1705618413114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705618442938	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705618542037	Marionette	INFO	Stopped listening on port 41561
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705618544398	geckodriver	INFO	Listening on 127.0.0.1:36447
+1705618545410	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKiPtpW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705618546046	Marionette	INFO	Marionette enabled
+1705618546420	Marionette	INFO	Listening on port 43267
+Read port: 43267
+1705618546559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705618576847	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705618807460	Marionette	INFO	Stopped listening on port 43267
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705618821854	geckodriver	INFO	Listening on 127.0.0.1:42883
+1705618822866	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5Cay4Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705618823494	Marionette	INFO	Marionette enabled
+1705618823830	Marionette	INFO	Listening on port 43915
+Read port: 43915
+1705618823960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705618853665	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705618893241	Marionette	INFO	Stopped listening on port 43915
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705618938040	geckodriver	INFO	Listening on 127.0.0.1:59611
+1705618939051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9sTt4T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705618939661	Marionette	INFO	Marionette enabled
+1705618939754	Marionette	INFO	Listening on port 39963
+Read port: 39963
+1705618940092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705618970274	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705619498360	geckodriver	INFO	Listening on 127.0.0.1:35089
+1705619499375	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6zMtj1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705619499995	Marionette	INFO	Marionette enabled
+1705619500079	Marionette	INFO	Listening on port 38895
+Read port: 38895
+1705619500336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705619530118	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705619540285	Marionette	INFO	Stopped listening on port 38895
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705619540525	Marionette	INFO	Stopped listening on port 39963
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705620758148	geckodriver	INFO	Listening on 127.0.0.1:55455
+1705620759154	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefHxDAq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705620759813	Marionette	INFO	Marionette enabled
+1705620759919	Marionette	INFO	Listening on port 39495
+Read port: 39495
+1705620760183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705620789878	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705620912375	Marionette	INFO	Stopped listening on port 39495
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705620918560	geckodriver	INFO	Listening on 127.0.0.1:33297
+1705620919566	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledOuTrz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705620920198	Marionette	INFO	Marionette enabled
+1705620920307	Marionette	INFO	Listening on port 39685
+Read port: 39685
+1705620920650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705620951505	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705621017506	Marionette	INFO	Stopped listening on port 39685
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705621036242	geckodriver	INFO	Listening on 127.0.0.1:43385
+1705621037257	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0fFVhW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705621037936	Marionette	INFO	Marionette enabled
+1705621038033	Marionette	INFO	Listening on port 40967
+Read port: 40967
+1705621038291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705621068043	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1705621191173	geckodriver	INFO	Listening on 127.0.0.1:36923
+1705621192190	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilej6rsVn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705621192824	Marionette	INFO	Marionette enabled
+1705621192907	Marionette	INFO	Listening on port 38695
+Read port: 38695
+1705621193170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705621223010	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+SourceActor threw an exception: Error: Failed to fetch https://afogadosdaingazeira.ephealth.com.br/portal/individuo. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://afogadosdaingazeira.ephealth.com.br/portal/individuo. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://afogadosdaingazeira.ephealth.com.br/portal/individuo. Code 2152924148.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1705621278415	Marionette	INFO	Stopped listening on port 38695
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1705621315917	geckodriver	INFO	Listening on 127.0.0.1:36661
+1705621316927	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCgBXpF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705621317514	Marionette	INFO	Marionette enabled
+1705621317628	Marionette	INFO	Listening on port 36841
+Read port: 36841
+1705621317881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1705621347529	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705621421751	Marionette	INFO	Stopped listening on port 36841
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
