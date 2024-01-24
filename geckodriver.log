@@ -22765,3 +22765,1796 @@ JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreacha
 JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
 JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
 JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+1706119837828	geckodriver	INFO	Listening on 127.0.0.1:36565
+1706119838843	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIzGf4W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706119839832	Marionette	INFO	Marionette enabled
+1706119840019	Marionette	INFO	Listening on port 33067
+Read port: 33067
+1706119840293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706119869873	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1706121624993	geckodriver	INFO	Listening on 127.0.0.1:46143
+1706121626007	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesNaGx8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706121626639	Marionette	INFO	Marionette enabled
+1706121626773	Marionette	INFO	Listening on port 44445
+Read port: 44445
+1706121627139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript error: https://afogadosdaingazeira.ephealth.com.br/portal/assets/ephealth-app/js/app.min.js, line 1535: TypeError: (intermediate value).apply is not a function
+JavaScript error: https://afogadosdaingazeira.ephealth.com.br/portal/assets/ephealth-app/js/app.min.js, line 1535: TypeError: (intermediate value).apply is not a function
+JavaScript error: https://afogadosdaingazeira.ephealth.com.br/portal/assets/ephealth-app/js/app.min.js, line 1535: TypeError: (intermediate value).apply is not a function
+JavaScript error: https://afogadosdaingazeira.ephealth.com.br/portal/assets/ephealth-app/js/app.min.js, line 1535: TypeError: (intermediate value).apply is not a function
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706121656767	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706124004231	geckodriver	INFO	Listening on 127.0.0.1:41735
+1706124005239	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelY7v9h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706124005815	Marionette	INFO	Marionette enabled
+1706124005949	Marionette	INFO	Listening on port 33729
+Read port: 33729
+1706124006289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+1706124008904	Marionette	INFO	Stopped listening on port 44445
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: https://afogadosdaingazeira.ephealth.com.br/portal/assets/ephealth-app/js/app.min.js, line 1535: TypeError: (intermediate value).apply is not a function
+JavaScript error: https://afogadosdaingazeira.ephealth.com.br/portal/assets/ephealth-app/js/app.min.js, line 1535: TypeError: (intermediate value).apply is not a function
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1706124036898	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706124101210	geckodriver	INFO	Listening on 127.0.0.1:34455
+1706124102221	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeR7hXt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706124102806	Marionette	INFO	Stopped listening on port 33729
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1706124102907	Marionette	INFO	Marionette enabled
+1706124103053	Marionette	INFO	Listening on port 46475
+Read port: 46475
+1706124103314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1706124133838	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706125400714	geckodriver	INFO	Listening on 127.0.0.1:47611
+1706125401728	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeuLzBJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706125402381	Marionette	INFO	Marionette enabled
+1706125402501	Marionette	INFO	Listening on port 33853
+Read port: 33853
+1706125402833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1706125412382	geckodriver	INFO	Listening on 127.0.0.1:55845
+1706125413393	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQAVcMx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706125414022	Marionette	INFO	Marionette enabled
+1706125414215	Marionette	INFO	Listening on port 35205
+Read port: 35205
+1706125414477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+1706125417020	Marionette	INFO	Stopped listening on port 33853
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: https://afogadosdaingazeira.ephealth.com.br/portal/assets/ephealth-app/js/app.min.js, line 1535: TypeError: (intermediate value).apply is not a function
+JavaScript error: https://afogadosdaingazeira.ephealth.com.br/portal/assets/ephealth-app/js/app.min.js, line 1535: TypeError: (intermediate value).apply is not a function
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706125444071	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1706125975739	geckodriver	INFO	Listening on 127.0.0.1:42459
+1706125976752	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesDQtmr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706125977376	Marionette	INFO	Marionette enabled
+1706125977747	Marionette	INFO	Listening on port 45757
+Read port: 45757
+1706125977801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706126007420	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706126280705	geckodriver	INFO	Listening on 127.0.0.1:43025
+1706126281718	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileV54HUl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706126282358	Marionette	INFO	Marionette enabled
+1706126282476	Marionette	INFO	Listening on port 45377
+Read port: 45377
+1706126282742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706126312943	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 16: Script terminated by timeout at:
+nrWrapper@https://player.vimeo.com/video/304715911:16:29368
+
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706127243088	Marionette	INFO	Stopped listening on port 45377
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1706127261407	geckodriver	INFO	Listening on 127.0.0.1:50061
+1706127262420	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJdAjsd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706127263062	Marionette	INFO	Marionette enabled
+1706127263206	Marionette	INFO	Listening on port 45273
+Read port: 45273
+1706127263541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706127293145	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1706127624153	geckodriver	INFO	Listening on 127.0.0.1:51823
+1706127625168	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIEkJyU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706127625829	Marionette	INFO	Marionette enabled
+1706127625959	Marionette	INFO	Listening on port 33663
+Read port: 33663
+1706127626219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706127656806	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1706127820703	geckodriver	INFO	Listening on 127.0.0.1:60983
+1706127821709	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehN7KPh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706127822315	Marionette	INFO	Marionette enabled
+1706127822467	Marionette	INFO	Listening on port 43103
+Read port: 43103
+1706127822740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1706127835635	Marionette	INFO	Stopped listening on port 46475
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1706127850923	Marionette	INFO	Stopped listening on port 43103
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1706127857745	geckodriver	INFO	Listening on 127.0.0.1:41533
+1706127858756	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile17Kfoo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706127859380	Marionette	INFO	Marionette enabled
+1706127859509	Marionette	INFO	Listening on port 40533
+Read port: 40533
+1706127859769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706127889425	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1706128010930	geckodriver	INFO	Listening on 127.0.0.1:38899
+1706128011941	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRzmFZP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706128012564	Marionette	INFO	Marionette enabled
+1706128012689	Marionette	INFO	Listening on port 40827
+Read port: 40827
+1706128012964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706128042622	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1706128340341	geckodriver	INFO	Listening on 127.0.0.1:32839
+1706128341356	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGCGx3y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706128341951	Marionette	INFO	Marionette enabled
+1706128342050	Marionette	INFO	Listening on port 38005
+Read port: 38005
+1706128342308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706128371969	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1706128641388	geckodriver	INFO	Listening on 127.0.0.1:58311
+1706128642400	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8vraBM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706128642996	Marionette	INFO	Marionette enabled
+1706128643326	Marionette	INFO	Listening on port 40999
+Read port: 40999
+1706128643476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706128673027	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706128736352	Marionette	INFO	Stopped listening on port 40999
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1706128769386	geckodriver	INFO	Listening on 127.0.0.1:48791
+1706128771887	geckodriver	INFO	Listening on 127.0.0.1:33993
+1706128772902	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegQkn5J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706128773541	Marionette	INFO	Marionette enabled
+1706128773678	Marionette	INFO	Listening on port 34921
+Read port: 34921
+1706128773939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 16: Script terminated by timeout at:
+nrWrapper@https://player.vimeo.com/video/304715911:16:29368
+
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706128804210	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706135413865	geckodriver	INFO	Listening on 127.0.0.1:36019
+1706135414880	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelk903B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706135415516	Marionette	INFO	Marionette enabled
+1706135415633	Marionette	INFO	Listening on port 38061
+Read port: 38061
+1706135415924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+1706135446891	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1706136748586	geckodriver	INFO	Listening on 127.0.0.1:53509
+1706136749592	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejWs3C7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706136750094	Marionette	INFO	Stopped listening on port 38061
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1706136750263	Marionette	INFO	Marionette enabled
+1706136750634	Marionette	INFO	Listening on port 41595
+Read port: 41595
+1706136750758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://afogadosdaingazeira.ephealth.com.br."
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715954, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+1706136780868	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 106: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+JavaScript warning: https://player.vimeo.com/video/304715911, line 116: unreachable code after return statement
+1706137308011	Marionette	INFO	Stopped listening on port 41595
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
